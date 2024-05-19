@@ -1,0 +1,5 @@
+data/
+spatial/
+*.h5
+*.csv
+.ipynb_checkpoints/
